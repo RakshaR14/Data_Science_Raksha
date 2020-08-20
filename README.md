@@ -1,4 +1,4 @@
-# First project
+# Final project
 
 
-This is my first project.
+This is my final project.
