@@ -1,7 +1,7 @@
-# Final project
+# Wicked Games Github Page
 
 
-This is my final project.
+
 
 
 
