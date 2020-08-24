@@ -2,7 +2,7 @@
 
 
 
-
+![](rstudio_lineplot.png)
 
 
 
