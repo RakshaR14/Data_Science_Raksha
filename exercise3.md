@@ -1,4 +1,4 @@
-# exercise3
+# exercise4
 
 ![](rplottotalpopulation.png)
 
