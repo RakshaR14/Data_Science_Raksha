@@ -11,7 +11,7 @@
 [exercise4](exercise4.md)
 
 ![](rplottotalpopulation.png)
-![](rplot02.prng)
+![](rplot02.png)
 
 
 
