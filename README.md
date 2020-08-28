@@ -1,4 +1,4 @@
-# Wicked Problems Github Page
+# Wicked Problems - Raksha's Github for DATA 100!
 
 [exercise1](exercise1.md)
 
