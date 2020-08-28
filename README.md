@@ -8,6 +8,11 @@
 
 ![](exercise2.png)
 
+[exercise4](exercise4.md)
+
+![](rplottotalpopulation.png)
+![](rplot02.prng)
+
 
 
 
