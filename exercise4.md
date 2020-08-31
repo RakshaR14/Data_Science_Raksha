@@ -2,6 +2,6 @@
 
 ![](rplottotalpopulation.png)
 
-![](totalplot.png)
+![](totalpop.png)
 
 Plotting Bar Graphs
