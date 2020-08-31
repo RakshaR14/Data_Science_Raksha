@@ -16,6 +16,8 @@
 
 ![](rplottotalpopulation.png)
 
+![](totalpop.png)
+
 
 
 
