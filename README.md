@@ -4,8 +4,6 @@
 
 [exercise2](exercise2.md)
 
-![](exercise2.png)
-
 [exercise3](exercise3.md)
 
 ![](challengequestion.png)
