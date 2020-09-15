@@ -1,5 +1,5 @@
-#project1
+# Project 1
 
 ![](Rplot06.png)
 
-This is second part of Project 1.
+These are my plots for the second part of Project 1.
