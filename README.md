@@ -1,17 +1,17 @@
 # Wicked Problems - Raksha's Github for DATA 100!
 
-[exercise1](exercise1.md)
+[exercise 1](exercise1.md)
 
-[exercise2](exercise2.md)
+[exercise 2](exercise2.md)
 
-[exercise3](exercise3.md)
+[exercise 3](exercise3.md)
 
-[exercise4](exercise4.md)
+[exercise 4](exercise4.md)
 
-[datareflection1](datareflection1.md)
+[data reflection 1](datareflection1.md)
 
-[project1](project1.md)
+[project 1](project1.md)
 
-[project2](project2.md)
+[project 2](project2.md)
 
 
