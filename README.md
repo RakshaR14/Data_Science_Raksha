@@ -10,7 +10,7 @@
 
 [data reflection 1](datareflection1.md)
 
-[project 1, part 2](project1.md)
+[project 1, part 1](project1.md)
 
 [project 1, part 2](project2.md)
 
