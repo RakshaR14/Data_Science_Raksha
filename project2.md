@@ -1,4 +1,4 @@
-# Part 2 of Project 2
+# Project 2
 
 ![](Rplot20.png)
 
