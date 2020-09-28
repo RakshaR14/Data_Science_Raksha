@@ -14,6 +14,3 @@
 
 [Project 1: Part 2](project2.md)
 
-[Project 2: Part 1]
-
-[Project 2: Part 2]
