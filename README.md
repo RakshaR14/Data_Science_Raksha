@@ -14,10 +14,10 @@
 
 [Project 1: Part 2](project1p2.md)
 
+[Data Reflection 2](datareflection2.md)
+
 [Project 2: Part 1](project2p1.md)
 
 [Project 2: Part 2](project2.md)
 
 [Project 2: Part 3](project2p3.md)
-
-[Data Reflection 2](datareflection2.md)
