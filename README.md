@@ -18,6 +18,6 @@
 
 [Project 2: Part 2](project2.md)
 
-[Data Reflection 2](datareflection2.md)
-
 [Project 2: Part 3](project2p3.md)
+
+[Data Reflection 2](datareflection2.md)
