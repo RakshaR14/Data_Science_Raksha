@@ -2,6 +2,4 @@
 
 ![](Rplot08.png)
 
-![](Rplot28.png)
 
-![](Rplot29.png)
