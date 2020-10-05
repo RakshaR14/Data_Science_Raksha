@@ -4,4 +4,4 @@ Absolute Population Growth:
 ![](Rplot08.png)
 
 Average Annual Rate:
-![](Rplot32.png)
+![](Rplot33.png)
