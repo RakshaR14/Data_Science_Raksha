@@ -10,6 +10,9 @@ In conclusion, chest radiography alongside additional computerized radiography d
 
 
 
+
+
+
 Elgendi, M., Nasir, M., Tang, Q., Fletcher, R., Howard, N., Menon, C., . . . Nicolaou, S. (2020, July 31). The Performance of Deep Neural Networks in Differentiating Chest X-Rays of COVID-19 Patients From Other Bacterial and Viral Pneumonias. Retrieved October 16, 2020, from https://www.frontiersin.org/articles/10.3389/fmed.2020.00550/full
 
 S;, A. (n.d.). A Deep Neural Network to Distinguish COVID-19 from other Chest Diseases using X-ray Images. Retrieved October 16, 2020, from https://pubmed.ncbi.nlm.nih.gov/32496988/
