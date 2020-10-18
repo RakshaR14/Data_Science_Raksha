@@ -5,6 +5,6 @@ The national boundary (SLV_0), first level administrative subdivisions (SLV_1) a
 
 ![](elsalvador.png)
 
-I created a larger map of El Salvador with rectangles identifying areas of detailed maps, showing its subdivisions. Detail A is a subplot of San Salvador, a high densely populated city in El Salvador. San Salvador is also the capital of El Salvador. Detail B shows the subdivisions of Morazán, a less populated region of El Salvador. 
+I created a larger map of El Salvador with rectangles identifying areas of detailed maps, showing its subdivisions. Detail A is a subplot of San Salvador, a high densely populated area in El Salvador. San Salvador is also the capital of El Salvador. Detail B shows the subdivisions of Morazán, a less populated region of El Salvador. 
 
 ![](details.png)
