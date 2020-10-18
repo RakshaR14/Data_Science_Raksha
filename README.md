@@ -24,4 +24,4 @@
 
 [Data Reflection 3](datareflection3.md)
 
-[Project 3](project3.md)
+[Project 3: Part 1 and 2](project3.md)
