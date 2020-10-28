@@ -8,3 +8,6 @@ Stretch Goal 1:
 
 Stretch Goal 2:
 ![](ggplotslv_adm2.png)
+
+Geometric Bar Plot with Simple Feature Object:
+![](elsalvador.png)
