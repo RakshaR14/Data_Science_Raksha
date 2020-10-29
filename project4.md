@@ -11,3 +11,7 @@ Stretch Goal 2:
 
 Individual Deliverable:
 ![](elsalvador.png)
+
+Individual Stretch Goal 1: 
+![](slv_adm2_bp.png)
+
