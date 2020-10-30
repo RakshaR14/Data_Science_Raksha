@@ -8,6 +8,8 @@ Machine learning aids in the profitability of Paypal by reducing risk and fraud 
 
 Deep learning is very efficient when training with a large repository of data, which Paypal contains. Performance is optimized as the data increases. Through a combination of linear, neural network, and deep learning algorithms, these applications have significantly improved the fraud detection system of Paypal. This has been proven over the years because the company has retained a relatively low fraud rate of 0.32 of revenue (Morisy 2020). Threats to consumer data are evolving in e-commerce, such as Paypal, so machine learning is a useful data science method to continue utilizing in this industry (Menon 2020).
 
+
+
 Burns, E. (2016, January 28). How PayPal fights fraud with predictive data analysis. Retrieved October 30, 2020, from https://searchbusinessanalytics.techtarget.com/feature/How-PayPal-fights-fraud-with-predictive-data-analysis
 
 Menon, A. (2020, October 20). How Fintech companies use Machine Learning to detect Fraud Detection. Retrieved October 30, 2020, from https://medium.com/@aravindmenon97/how-fintech-companies-use-machine-learning-to-detect-fraud-detection-62618b331db7
