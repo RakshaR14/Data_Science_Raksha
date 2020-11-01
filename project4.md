@@ -22,6 +22,6 @@ I created a geometric bar plot using the first level administrative subdivisions
 
 
 Individual Stretch Goal 1: 
-In this deliverable, I used the adm2 class object (districts) instead of adm1 for my geometric bar plot. 
+In this deliverable, I used the adm2 class object (districts) instead of adm1 with the combined spatial description and geometric bar plot for my geometric bar plot. 
 ![](slv_adm2_bp.png)
 
