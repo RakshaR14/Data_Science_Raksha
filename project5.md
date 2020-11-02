@@ -1,5 +1,5 @@
 # Project 5
 
-First Plot:
+Plots of RasterStack Layers:
 
 ![](Rplot01.png)
