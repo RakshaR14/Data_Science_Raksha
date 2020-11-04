@@ -6,7 +6,7 @@ Plots of RasterStack Layers:
 ![](Rplot03.png)
 ![](Rplot01.png)
 
-Density Histogram Plot with log(pop20) data:
+First Combined Histogram with Density Plot:
 ![](slv_adm2_histogram.png)
-Density Histogram Plot with ntl data:
+Second Combined Histogram with Density Plot:
 ![](slv_adm2_histogram2.png)
