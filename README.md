@@ -30,6 +30,6 @@
 
 [Project 4](project4.md)
 
-[Project 5](project5.md)
-
 [Final Data Reflection](finalreflection.md)
+
+[Project 5](project5.md)
