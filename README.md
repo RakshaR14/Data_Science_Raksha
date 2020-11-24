@@ -33,3 +33,5 @@
 [Final Data Reflection](finalreflection.md)
 
 [Project 5](project5.md)
+
+[Final Project](finalproject.md)
