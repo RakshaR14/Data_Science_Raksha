@@ -10,6 +10,7 @@ The total population of the adm2 subdivisions I've selected (San Vicente, Berlin
 ![](smirhcf.png)
 
 Accesbility 3 (Team and Individual Deliverable):
+The topography of El Salvador consists of dormant volacanos and mainly mountainous regions with central plateaus and plains. The urban areas and human settlements are found near the low altitudes of the mountains such as Volcán de San Vicente. The primary transportation facility is found on the central plateaus while the various secondary and tertiary roadways are spatially distributed throughout the mountains and flat lands. The topography impacted the healthcare facilities in a similar way, where hospitals and clinics are dispersed throughout the densley populated human settlements. Producing the 3D plot did make me interpret the spatial distribution in a different way from my previous analysis because I thought the transportation and healthcare facilities would be built around the volcano and mountains. 
 
 ![](rplot29.png)
 
