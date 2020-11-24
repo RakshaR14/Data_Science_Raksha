@@ -7,4 +7,4 @@ Accessbility 2:
 ![](smirhcf.png)
 
 Accesbility 3:
-![](Rplot28.png)
+![](rplot29.png)
