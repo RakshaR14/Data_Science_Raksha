@@ -2,7 +2,7 @@
 
 Accessibility 1:  De facto boundaries of human settlements and urbanization of El Salvador adm2 subdivisions
 
-![](smi.png)
+
 
 Accessbility 2:
 
